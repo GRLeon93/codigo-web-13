@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+h1 {
+    background-color: #000;
+    color: #f01;
+  }
+
+h2 {
+    background-color: #22e8dc;
+    color: rgb(100, 238, 179);
+}
+
+p {
+    background-color: yellow;
+    color: rgb(34, 182, 66);
+}
+
+a {
+    background-color: yellowgreen;
+    color: pink;
+}
+
+#contenedor-uno {
+    background-color: blue;
+}
+
+#contenedor-dos {
+    background-color: yellow;
+}
+
+.contenedor-principal {
+    background-color: violet;
+    padding: 30px;
+}
+
+.btn-registro {
+    font-size: 25px;
+    background-color: red;
+}
+
+.btn-ingresar {
+    background-color: rgb(13, 139, 295);
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+.contenedor-form {
+    border: 3px solid rgb(255, 136, 0);
+}
+
+.contenedor-interno-form {
+
+}
